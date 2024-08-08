@@ -11,54 +11,60 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, Political Science, The Ohio State University, 2025 (expected)
+* M.A., Political Science, The Ohio State University, 2020
+* B.A., Political Science, Northern Kentucky University, 2018
+	*Key Achievement: Oustanding Student in Political Science, 2018
 
-Work experience
+Teaching experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Teaching Assocaite, Ohio State University, 2021-2022
+	* Course: Contemporary Issues in American Politics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*Teaching Assistant, Ohio State University, 2019-2020, 2023-2024
+	*Courses: Ethics in Public Policy, American Presidency, Campaign Politics, Politics of Health
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+*Neblo, Michael A., and Emily Ann Israelson. "A humble form of government: Democracy as the politics of collective experience." In <i>The Routledge Handbook of Philosophy of Humility</i>, pp. 129-138. Routledge, 2020.
+
+Works in Progress
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+*“Disrupting Deservingness: How Americans’ Orientations toward Egalitarianism Impact Redistribution Attitudes” (Dissertation)
+	*Emily Ann Israelson
+
+*“Gentle Politics: Relational Egalitarianism, Deservingness, and Autonomy”
+	*Emily Ann Israelson 
+
+Grants and Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.grants and fellowships reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+*OAEPS Award for Best Undergraduate Paper, 2017
+*William Jennings Bryan Prize for best paper written in Political Theory, 2018-2019
+*Junior PRISM Fellow, Ohio State University, 2020-2021
+*Distinguished University Graduate Fellowship, Ohio State University, 2018-2019; 2022-2023
+
+Conference Presentations
 ======
-* Currently signed in to 43 different slack teams
+*American Political Science Association, 2021
+*Midwest Political Science Association, 2024
+
+Professional Memberships
+======
+*American Political Science Association (APSA)
+*Midwest Political Science Association (MPSA)
+*Junior American Workshop Series (JAWS)
+
+Relevant Skills
+======
+*Programming ability in R
+*Proficiency in Excel and Qualtrics
