@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="https://eapisraelson.github.io/files/CV.pdf" type="application/pdf" width="100%" height="800px" />
+
 Education
 ======
 * Ph.D, Political Science, The Ohio State University, 2025 (expected)
