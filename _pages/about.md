@@ -9,10 +9,10 @@ redirect_from:
 
 
 I'm Emily Ann, a PhD Candidate in the Department of Political Science at Ohio State University. 
-My work focuses on building birdges between normative political theory and empirical social science. 
-My main fields are American Politics and Contemporary Political theory, with a particular focus on political psychology, justice, and inequality.
+My work focuses on building bridges between normative political theory and empirical social science. 
+My main fields are American Politics and Contemporary Political Theory, with a particular focus on political psychology, justice, and inequality.
 Specifically, I'm interested in the process by which Americans make judgments of deservingness, and how such judgments impact their political attitudes.
-I also examine whether deservingness is a necessary component of political thought, drawing from egalitarian political thought as inspiration. 
+I also draw from egalitarian political thought to examine whether deservingness is a necessary component of political thought.
 Additionally, my research pursues the extent to which other social forces such as parenting, neurodivergence, and trauma interact with how people think about justice and inequality.
 
 I grew up in a blended family in Texas and later Kentucky, and I received my B.A. at Northern Kentucky University before starting graduate school at Ohio State.
